@@ -26,7 +26,7 @@ html {
   right: 0;
   bottom: 0;
   left: 0;
-  background-image: url(../images/planets/all-planets.svg);
+  background-image: url(../all-planets.svg);
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: bottom;
